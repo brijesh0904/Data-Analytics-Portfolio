@@ -1,0 +1,5 @@
+Product,Category,Sales_2024,Sales_2025,Sales_2026,Launch Date
+Mouse,Accessories,15000,18000,22000,2024.01.15
+Keyboard,Accessories,45000,52000,60000,15-Mar-2024
+Monitor,Displays,180000,195000,null,2024/06/01
+Laptop,Systems,450000,500000,550000,null
